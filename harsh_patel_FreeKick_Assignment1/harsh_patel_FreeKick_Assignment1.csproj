@@ -60,7 +60,21 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="assets\images\back.jpg" />
-    <Content Include="assets\images\slideback.jpg" />
+    <Content Include="assets\images\Benzema.jpg" />
+    <Content Include="assets\images\Chiellini.jpg" />
+    <Content Include="assets\images\Germany.jpg" />
+    <Content Include="assets\images\GermanyItaly.jpg" />
+    <Content Include="assets\images\Messi.jpg" />
+    <Content Include="assets\images\MessiRamos.jpg" />
+    <Content Include="assets\images\Muller.jpg" />
+    <Content Include="assets\images\Ozil.jpg" />
+    <Content Include="assets\images\Pirlo.jpg" />
+    <Content Include="assets\images\pirlochiellini.jpg" />
+    <Content Include="assets\images\RealBarca.jpg" />
+    <Content Include="assets\images\RoanldoJordi.jpg" />
+    <Content Include="assets\images\ronaldofreekick.jpg" />
+    <Content Include="assets\images\SlidesBackground.jpg" />
+    <Content Include="assets\images\suarez.jpg" />
     <Content Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

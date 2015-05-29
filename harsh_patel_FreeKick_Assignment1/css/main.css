@@ -31,9 +31,8 @@
     padding: 40px 60px;
     background-color: blue;
     border: 1px solid rgba(0,0,0,0.3);
-    background-image: url('../assets/images/slideback.jpg');
     text-shadow: 0 2px 2px orange;
-    text-align:justify;
+    text-align: justify;
     border-radius: 5px;
     font-family: 'Comic Sans MS','Times New Roman',Jokerman;
     font-size: 30px;
